@@ -1,0 +1,202 @@
+05:11:58 PM: DEBUG [Manejo de Logging.py:13] --> Mensaje a nivel debug
+05:11:58 PM: INFO [Manejo de Logging.py:14] --> Mensaje a nivel info
+05:12:57 PM: DEBUG [Manejo de Logging.py:13] --> Mensaje a nivel debug
+05:12:57 PM: INFO [Manejo de Logging.py:14] --> Mensaje a nivel info
+05:12:57 PM: WARNING [Manejo de Logging.py:15] --> Mensaje a nivel warning
+05:12:57 PM: ERROR [Manejo de Logging.py:16] --> Mensaje a nivel error
+05:12:57 PM: CRITICAL [Manejo de Logging.py:17] --> Mensaje a nivel critical
+07:46:33 PM: DEBUG [Modulo_de_Persona.py:54] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:47:57 PM: DEBUG [Modulo_de_Persona.py:54] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:47:57 PM: DEBUG [Modulo_de_Persona.py:57] --> Persona #None --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:48:39 PM: DEBUG [Modulo_de_Persona.py:54] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:48:39 PM: DEBUG [Modulo_de_Persona.py:57] --> Persona #None --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:48:39 PM: DEBUG [Modulo_de_Persona.py:60] --> Persona #1 --> Nombre: None None, Correo: None
+07:48:43 PM: DEBUG [Modulo_de_Persona.py:54] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:48:43 PM: DEBUG [Modulo_de_Persona.py:57] --> Persona #None --> Nombre: Daniel Alvarez, Correo: dalvarez@mail.com
+07:48:43 PM: DEBUG [Modulo_de_Persona.py:60] --> Persona #1 --> Nombre: None None, Correo: None
+10:59:25 AM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000002054AD82570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+10:59:55 AM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x0000027442042570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:00:46 AM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x0000016DD9E02570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:00:46 AM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x0000016DDC3611C0; closed: 0>
+11:00:56 AM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x0000018EAA632570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+11:00:56 AM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x0000018EAC8111C0; closed: 0>
+12:22:49 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000002E19DBB2570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:22:49 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000002E19FD15380; closed: 0>
+12:22:49 PM: DEBUG [Modulo_de_PersonaDAO.py:34] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: mision.d.a.s.04@gmail.com
+12:22:49 PM: DEBUG [Modulo_de_PersonaDAO.py:34] --> Persona #2 --> Nombre: Mariana Alvarez, Correo: suman.alvarez@gmail.com
+12:22:49 PM: DEBUG [Modulo_de_PersonaDAO.py:34] --> Persona #5 --> Nombre: Gabriela Sil, Correo: gsil@mail.com
+12:22:49 PM: DEBUG [Modulo_de_PersonaDAO.py:34] --> Persona #9 --> Nombre: Daniela Acosta, Correo: dacosta@mail.com
+12:22:49 PM: DEBUG [Modulo_de_PersonaDAO.py:34] --> Persona #10 --> Nombre: Dan Acosta, Correo: dacosta@mail.com
+12:44:06 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000001EB09B22570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:44:06 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001EB0BC85380; closed: 0>
+12:45:00 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x00000275D8A92570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:45:00 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000275DAFB5380; closed: 0>
+12:45:00 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Carlos Santanna, Correo: csantanna@mail.com
+12:45:00 PM: DEBUG [Modulo_de_PersonaDAO.py:46] --> Numero de Registros Creados: 1
+12:48:58 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x00000211B8272570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:48:58 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000211BA795460; closed: 0>
+12:48:58 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+12:48:58 PM: DEBUG [Modulo_de_PersonaDAO.py:48] --> Numero de Registros Creados: 1
+12:48:58 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Cursor cerrado: <bound method Conexion.obtenerCursor of <class 'Modulo_de_Conexion.Conexion'>>
+12:50:27 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x0000016934572570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:50:27 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x0000016936725460; closed: 0>
+12:50:27 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+12:50:27 PM: DEBUG [Modulo_de_PersonaDAO.py:26] -->  Cursor abierto: <cursor object at 0x0000016936725460; closed: 0>
+12:50:27 PM: DEBUG [Modulo_de_PersonaDAO.py:48] --> Numero de Registros Creados: 1
+12:50:27 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Cursor cerrado: <bound method Conexion.obtenerCursor of <class 'Modulo_de_Conexion.Conexion'>>
+12:52:30 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x00000222C5702570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:52:30 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000222C7865460; closed: 0>
+12:52:30 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+12:52:30 PM: DEBUG [Modulo_de_PersonaDAO.py:26] -->  Cursor abierto: <cursor object at 0x00000222C7865460; closed: 0>
+12:52:30 PM: DEBUG [Modulo_de_PersonaDAO.py:49] --> Numero de Registros Creados: 1
+12:52:30 PM: DEBUG [Modulo_de_PersonaDAO.py:51] --> Cursor cerrado: <bound method Conexion.obtenerCursor of <class 'Modulo_de_Conexion.Conexion'>>
+12:55:47 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x00000138E93A2570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+12:55:47 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000138EB8D5460; closed: 0>
+12:55:47 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueb, Correo: pprueba@mail.com
+12:55:47 PM: DEBUG [Modulo_de_PersonaDAO.py:26] -->  Cursor abierto: <cursor object at 0x00000138EB8D5460; closed: 0>
+12:55:47 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Numero de Registros Creados: 1
+12:55:47 PM: DEBUG [Modulo_de_PersonaDAO.py:52] --> Cursor cerrado: <cursor object at 0x00000138EB8D5460; closed: -1>
+01:12:15 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000002343AF72570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:12:15 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000002343D485380; closed: 0>
+01:12:39 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x0000022126242570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:12:39 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000221283C1460; closed: 0>
+01:12:39 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:12:39 PM: DEBUG [Modulo_de_PersonaDAO.py:26] -->  Cursor abierto: <cursor object at 0x00000221283C1460; closed: 0>
+01:12:39 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Numero de Registros Creados: 1
+01:12:39 PM: DEBUG [Modulo_de_PersonaDAO.py:52] --> Cursor cerrado: <cursor object at 0x00000221283C1460; closed: -1>
+01:14:44 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x0000019546B72570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:14:44 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x0000019548CD5460; closed: 0>
+01:14:44 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:14:44 PM: DEBUG [Modulo_de_PersonaDAO.py:26] -->  Cursor abierto: False
+01:14:44 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Numero de Registros Creados: 1
+01:14:44 PM: DEBUG [Modulo_de_PersonaDAO.py:52] --> Cursor cerrado: True
+01:15:16 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x00000181F4F82570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:15:16 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000181F7511460; closed: 0>
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:26] -->  Cursor abierto: False
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Numero de Registros Creados: 1
+01:15:16 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x00000181F7511380; closed: 0>
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:52] --> Cursor cerrado: False
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: mision.d.a.s.04@gmail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #2 --> Nombre: Mariana Alvarez, Correo: suman.alvarez@gmail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #5 --> Nombre: Gabriela Sil, Correo: gsil@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #9 --> Nombre: Daniela Acosta, Correo: dacosta@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #10 --> Nombre: Dan Acosta, Correo: dacosta@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #11 --> Nombre: Carlos Santanna, Correo: csantanna@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #12 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #13 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #14 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #15 --> Nombre: Prueba Prueb, Correo: pprueba@mail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #16 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #17 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:15:16 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #18 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:17:17 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000001E6E0E02570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:17:17 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001E6E2F65380; closed: 0>
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Mikel Romero, Correo: mromero@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:50] --> Numero de Registros Creados: 1
+01:17:17 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001E6E2F652A0; closed: 0>
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: mision.d.a.s.04@gmail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #2 --> Nombre: Mariana Alvarez, Correo: suman.alvarez@gmail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #5 --> Nombre: Gabriela Sil, Correo: gsil@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #9 --> Nombre: Daniela Acosta, Correo: dacosta@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #10 --> Nombre: Dan Acosta, Correo: dacosta@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #11 --> Nombre: Carlos Santanna, Correo: csantanna@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #12 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #13 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #14 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #15 --> Nombre: Prueba Prueb, Correo: pprueba@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #16 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #17 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #18 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:17:17 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Persona #19 --> Nombre: Mikel Romero, Correo: mromero@mail.com
+01:42:45 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000002041C412570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:42:45 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000002041E935380; closed: 0>
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:57] --> Numero de Registros Creados: 1
+01:42:45 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000002041E9352A0; closed: 0>
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: mision.d.a.s.04@gmail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #2 --> Nombre: Mariana Alvarez, Correo: suman.alvarez@gmail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #5 --> Nombre: Gabriela Sil, Correo: gsil@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #9 --> Nombre: Daniela Acosta, Correo: dacosta@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #10 --> Nombre: Dan Acosta, Correo: dacosta@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #11 --> Nombre: Carlos Santanna, Correo: csantanna@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #12 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #13 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #14 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #15 --> Nombre: Prueba Prueb, Correo: pprueba@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #16 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #17 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #18 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #19 --> Nombre: Mikel Romero, Correo: mromero@mail.com
+01:42:45 PM: DEBUG [Modulo_de_PersonaDAO.py:64] --> Persona #20 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:43:11 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000002041E935380; closed: 0>
+01:43:11 PM: DEBUG [Modulo_de_PersonaDAO.py:48] --> Persona Actualizada: Persona #13 --> Nombre: None None, Correo: None
+01:43:11 PM: DEBUG [Modulo_de_PersonaDAO.py:69] --> Numero de Registros Actualizados: 1
+01:55:20 PM: DEBUG [Modulo_de_Conexion.py:21] --> La conexion a la base de datos ha sido exitosa
+Conexion: <connection object at 0x000001A1D4112570; dsn: 'user=postgres password=xxx dbname=test_db host=localhost port=5432', closed: 0>
+01:55:20 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001A1D6635380; closed: 0>
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:25] --> Persona Insertada: Persona #None --> Nombre: Armando Caballero, Correo: acaballero@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:67] --> Numero de Registros Creados: 1
+01:55:20 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001A1D66352A0; closed: 0>
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #1 --> Nombre: Daniel Alvarez, Correo: mision.d.a.s.04@gmail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #2 --> Nombre: Mariana Alvarez, Correo: suman.alvarez@gmail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #5 --> Nombre: Gabriela Sil, Correo: gsil@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #9 --> Nombre: Daniela Acosta, Correo: dacosta@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #10 --> Nombre: Dan Acosta, Correo: dacosta@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #11 --> Nombre: Carlos Santanna, Correo: csantanna@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #12 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #13 --> Nombre: None None, Correo: None
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #14 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #15 --> Nombre: Prueba Prueb, Correo: pprueba@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #16 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #17 --> Nombre: Prueba Prueba, Correo: prueba@gmail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #18 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #19 --> Nombre: Mikel Romero, Correo: mromero@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #20 --> Nombre: Prueba Prueba, Correo: pprueba@mail.com
+01:55:20 PM: DEBUG [Modulo_de_PersonaDAO.py:74] --> Persona #21 --> Nombre: Armando Caballero, Correo: acaballero@mail.com
+01:55:29 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001A1D6635380; closed: 0>
+01:55:29 PM: DEBUG [Modulo_de_PersonaDAO.py:48] --> Persona Actualizada: Persona #20 --> Nombre: None None, Correo: None
+01:55:29 PM: DEBUG [Modulo_de_PersonaDAO.py:79] --> Numero de Registros Actualizados: 1
+01:55:47 PM: DEBUG [Modulo_de_Conexion.py:33] --> La adquisición del cursor para la base de datos fue exitosa
+Cursor: <cursor object at 0x000001A1D66352A0; closed: 0>
+01:55:47 PM: DEBUG [Modulo_de_PersonaDAO.py:58] --> Persona Eliminada: Persona #13 --> Nombre: None None, Correo: None
+01:55:47 PM: DEBUG [Modulo_de_PersonaDAO.py:84] --> Numero de Registros Eliminados: 1
